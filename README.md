@@ -16,4 +16,11 @@ To Run the Server and Client, follow these steps
    git clone https://github.com/username/TCP-Chatroom-Server-in-Java.git
    ```
 
+2. Navigate to project Directory
+   ```bash
+   cd TCP-Chatroom-Server-in-Java
+   ```
+
+   3. 
+
 
