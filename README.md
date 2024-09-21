@@ -32,10 +32,13 @@ To Run the Server and Client, follow these steps
    javac Client.java
    ```
 
-## How to Use and Commands
+## How to Use
 1. First Input username, will only accept non-empty strings
 2. Simply type your desired message and send!
-3. /nick | followed by any name to rename yourself
-4. /quit | to exit the Socket 
+
+   ### Commands
+   
+   #### /nick | followed by any name to rename yourself
+   ### /quit | to exit the Socket 
 
 
