@@ -36,8 +36,7 @@ To Run the Server and Client, follow these steps
 1. First Input username, will only accept non-empty strings
 2. Simply type your desired message and send!
 
-   ### Commands
-   
+## Commands
    #### /nick | followed by any name to rename yourself
    #### /quit | to exit the Socket 
 
