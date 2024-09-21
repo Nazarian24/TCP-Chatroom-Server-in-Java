@@ -9,7 +9,9 @@ Geek for Geek, provided an amazing fundamental understanding of Socket Programmi
 (https://www.geeksforgeeks.org/socket-programming-in-java/)
 
 ## How to Run
-1. Clone Repository
+To Run the Server and Client, follow these steps
+
+1. Clone Repository:
    ```bash
    git clone https://github.com/username/TCP-Chatroom-Server-in-Java.git
    ```
