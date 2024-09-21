@@ -20,7 +20,17 @@ To Run the Server and Client, follow these steps
    ```bash
    cd TCP-Chatroom-Server-in-Java
    ```
-
-   3. 
+   
+3. Run the Server.java in your respective IDE, or from terminal
+   ```bash
+   javac Server.java
+   ```
+   1. Note: If you would like to manualy change the port and ip address of which the file will run out of, do so using a IDE or any terminal based editor like vim
+      
+4. Run Client.java
+   ```bash
+   javac Client.java
+   ```
+    
 
 
