@@ -39,6 +39,6 @@ To Run the Server and Client, follow these steps
    ### Commands
    
    #### /nick | followed by any name to rename yourself
-   ### /quit | to exit the Socket 
+   #### /quit | to exit the Socket 
 
 
