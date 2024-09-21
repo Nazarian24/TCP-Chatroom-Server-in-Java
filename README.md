@@ -6,7 +6,9 @@ Neural Nine, whos video and code provided excellent coverage on how to create a 
 (https://www.youtube.com/watch?v=hIc_9Wbn704)
 
 Geek for Geek, provided an amazing fundamental understanding of Socket Programming implement in java
-https://www.geeksforgeeks.org/socket-programming-in-java/
+(https://www.geeksforgeeks.org/socket-programming-in-java/)
+
+
 
 
 
